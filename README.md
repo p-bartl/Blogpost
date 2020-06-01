@@ -1,7 +1,7 @@
 # Blogpost
 Write a Data Science Blog Post
 
-## 1. Installations
+## 1. Installations / Libraries
 
 - Python 3
 - numpy 1.18.4
@@ -37,14 +37,25 @@ affect various dependent variables such as<br>
 - Do male Students make use of Computer programming more frequently?
 - Does spending more time on Homework translates into higher Scores in mathematics and is there a Gender-Difference?
 
-3. File Descriptions
+## 3. File Descriptions
 
-4. How to Interact with your project
+- README.MD: Provides a Project Overview
+- ANALYSIS.IPYND: Share my code and data wrangling/modeling techniques
+- PISA2012.CSV: The whole Dataset of the PISA 2012 Assessment, unfortunately way to large to upload it to GitHub, can be downloaded here: http://www.oecd.org/pisa/pisaproducts/datavisualizationcontest.htm
+- PISADICT2012.CSV: Data Dictionary for the PISA2012.CSV File
 
-5. Licensing, Authors, Acknowledgements, etc.
+## 4. Summary of the results of the analysis
+- For in-depth-analysis please refer to my MEDIUM Blog Post
+- There seems to be a slightly positive correlation between the Perceived Satisfaction at School and the Start of Primary education. Students who start later are more satisfied.
+- There seems to be a slightly positive correlation between the Perceived Easiness of Friends-Making and the Start of Primary education. For Students who start later it is easier to make friends.
+- There is an overall negative trend. Many students spend rather little time of computer use, few students spend rather much time of computer use.
+- There seems to be a slightly negative correlation between the Time of computer use (mins) and the Age-Category at First use of computers. Students who start early using computers spend on average more time using them.
+- Overall there seems to be a slightly negative correlation between the Frequency of Computer programming and the Age-Category at First use of computers. Students who start early using computers are programming more frequently (i.e. 'Often').
+- There seems to be a Gender-Gap: Women are less likely to program frequently. The overall relationship between the Frequency of Computer programming and the Age-Category at First use of computers seems not to be gender-specific, but there is a significant gap between both genders in absolute terms regarding the Frequency of Computer programming.
+- There seems to be a positive correlation between the Out-of-School Study Time (Homework) and the Score in mathematics, but only to a certain point. The overall relationship between the Out-of-School Study Time (Homework) and the Score in mathematics seems not to be gender-specific, but there is a gap between both genders in absolute terms regarding the Score in mathematics. Despite women spend on average more time on Out-of-School Study they have at almost every bin of Out-of-School Study Time lower Scores in mathematics than men.
 
-
-
-
-
-communicates the libraries used, the motivation for the project, the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgements
+## 5. Licensing, Authors, Acknowledgements, etc.
+ - I got some inspirations from the successfull Submissions of the 'Data Visualization Contest @ use!R 2014'
+ - However the Ideas could not be transferred directly 
+ - http://mi2.mini.pw.edu.pl:8080/SmarterPoland/PISAcontest/
+ 
