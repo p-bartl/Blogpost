@@ -45,7 +45,7 @@ affect various dependent variables such as<br>
 - PISADICT2012.CSV: Data Dictionary for the PISA2012.CSV File
 
 ## 4. Summary of the results of the analysis
-- For in-depth-analysis please refer to my MEDIUM Blog Post
+- For in-depth-analysis please refer to my MEDIUM Blog Post: https://medium.com/@p.bartl/the-pisa-assessment-its-way-more-than-just-a-conventional-school-test-7b6c884d7f2a
 - There seems to be a slightly positive correlation between the Perceived Satisfaction at School and the Start of Primary education. Students who start later are more satisfied.
 - There seems to be a slightly positive correlation between the Perceived Easiness of Friends-Making and the Start of Primary education. For Students who start later it is easier to make friends.
 - There is an overall negative trend. Many students spend rather little time of computer use, few students spend rather much time of computer use.
